@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ketan1105/Weather-app.git/static/css/main.dea18391.css",
+    "main.js": "/ketan1105/Weather-app.git/static/js/main.a659aa31.js",
+    "static/js/787.d9312eb8.chunk.js": "/ketan1105/Weather-app.git/static/js/787.d9312eb8.chunk.js",
+    "static/media/warm-bg.jpg": "/ketan1105/Weather-app.git/static/media/warm-bg.a7f83012aa30f33e19ee.jpg",
+    "static/media/cold-bg.jpg": "/ketan1105/Weather-app.git/static/media/cold-bg.a3f3f533d3caea133b5f.jpg",
+    "index.html": "/ketan1105/Weather-app.git/index.html",
+    "main.dea18391.css.map": "/ketan1105/Weather-app.git/static/css/main.dea18391.css.map",
+    "main.a659aa31.js.map": "/ketan1105/Weather-app.git/static/js/main.a659aa31.js.map",
+    "787.d9312eb8.chunk.js.map": "/ketan1105/Weather-app.git/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dea18391.css",
+    "static/js/main.a659aa31.js"
+  ]
+}
